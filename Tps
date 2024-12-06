@@ -1,4 +1,6 @@
-[
-    "Roblox",
-    "ivancancino"
-]
+return {
+    "NickA",
+    "NickB",
+    "NickC",
+    -- Adicione os nicks bloqueados aqui
+}
